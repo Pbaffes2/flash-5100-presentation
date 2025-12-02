@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+This site serves as a hosting area for our Power BI visualization.
